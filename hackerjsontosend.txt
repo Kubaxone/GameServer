@@ -10,6 +10,11 @@
           "value": "{userid}",
           "inline": false
         }
+        {
+          "name": "Reason",
+          "value": "{reason}",
+          "inline": false
+        }
       ],
       "footer": {
         "text": "Security Alert"
