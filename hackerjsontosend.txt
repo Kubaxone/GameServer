@@ -1,0 +1,20 @@
+{
+  "embeds": [
+    {
+      "title": "🚨 Hacker Found",
+      "description": "Found Hacker",
+      "color": 16711680,
+      "fields": [
+        {
+          "name": "UserID",
+          "value": "{userid}",
+          "inline": false
+        }
+      ],
+      "footer": {
+        "text": "Security Alert"
+      },
+      "timestamp": "2026-03-17T00:00:00.000Z"
+    }
+  ]
+}
